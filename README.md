@@ -1,10 +1,22 @@
-### Hi there 👋
+## Just a Fixed Door
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixed0301)](https://solved.ac/fixed0301/)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+- 🏫 Student of the **[Gyeonggi-Buk Science Highschool](https://gbs.hs.kr/) 19th**
+- 🖥 Member of **[SADA](https://sada.gbshs.kr)**, Programming Club in GBS
+- 
+### 💬 Faverite Language
+<a href="https://python.org"><img src="https://img.shields.io/badge/-Python-4dabf7?style=for-the-badge&logo=Python&logoColor=white"/></a> 
+ 
+### ⌨️ Favorite Tools
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+<a href="https://www.tensorflow.org/?hl=ko"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
 
+### 📚 I Want to Study..
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+
+### Problem Solving (Baekjoon Online Judge)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=fixed0301)
+ - Check [solved.ac](https://solved.ac/profile/fixed0301) Profile
+ - Check [BOJ](https://www.acmicpc.net/user/fixed0301) Profile
 
 <!--
 **fixed0301/fixed0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
