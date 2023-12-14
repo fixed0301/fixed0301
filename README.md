@@ -2,7 +2,7 @@
 
 - 🏫 Student of the **[Gyeonggi-Buk Science Highschool](https://gbs.hs.kr/) 19th**
 - 🖥 Member of **[SADA](https://sada.gbshs.kr)**, Programming Club in GBS
-- 
+- Loves DeepLearning
 ### 💬 Faverite Language
 <a href="https://python.org"><img src="https://img.shields.io/badge/-Python-4dabf7?style=for-the-badge&logo=Python&logoColor=white"/></a> 
  
