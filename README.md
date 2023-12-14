@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixed0301)](https://solved.ac/fixed0301/)
+
 <!--
 **fixed0301/fixed0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
