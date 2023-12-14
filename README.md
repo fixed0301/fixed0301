@@ -14,7 +14,7 @@
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 
 ### Problem Solving (Baekjoon Online Judge)
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=fixed0301)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixed0301)](https://solved.ac/fixed0301/)
 
 <!--
 **fixed0301/fixed0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
