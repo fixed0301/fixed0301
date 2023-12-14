@@ -15,8 +15,6 @@
 
 ### Problem Solving (Baekjoon Online Judge)
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=fixed0301)
- - Check [solved.ac](https://solved.ac/profile/fixed0301) Profile
- - Check [BOJ](https://www.acmicpc.net/user/fixed0301) Profile
 
 <!--
 **fixed0301/fixed0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
