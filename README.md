@@ -1,8 +1,9 @@
 ## Fixed Door
 
-- 🏫 Student of the **[Gyeonggi-Buk Science Highschool](https://gbs.hs.kr/) 19th**
-- 🖥 Member of **[SADA](https://sada.gbshs.kr)**, Programming Club in GBSHS
+- 🏫 Student of the **[Gyeonggi-Buk Science Highschool]([https://gbs.hs.kr/](https://gbs-h.goeujb.kr/gbs-h/main.)) 19th**
+- 🖥 Member of **[SADA]([https://sada.gbshs.kr](https://www.youtube.com/@sada8040))**, Attractive Developers' Association in GBSHS
 - ⚡DeepLearning
+  
 ### 💬 Favorite Language
 <a href="https://python.org"><img src="https://img.shields.io/badge/-Python-4dabf7?style=for-the-badge&logo=Python&logoColor=white"/></a> 
  
