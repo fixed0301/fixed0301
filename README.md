@@ -1,9 +1,9 @@
-## Just a Fixed Door
+## Fixed Door
 
 - 🏫 Student of the **[Gyeonggi-Buk Science Highschool](https://gbs.hs.kr/) 19th**
-- 🖥 Member of **[SADA](https://sada.gbshs.kr)**, Programming Club in GBS
-- Loves DeepLearning
-### 💬 Faverite Language
+- 🖥 Member of **[SADA](https://sada.gbshs.kr)**, Programming Club in GBSHS
+- ⚡DeepLearning
+### 💬 Favorite Language
 <a href="https://python.org"><img src="https://img.shields.io/badge/-Python-4dabf7?style=for-the-badge&logo=Python&logoColor=white"/></a> 
  
 ### ⌨️ Favorite Tools
@@ -13,6 +13,10 @@
 ### 📚 I Want to Study..
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 
+### 📫 How to reach me:
+- insta: @fixeddoor0301
+- e-mail: fixeddoor0301@gmail.com
+- 
 ### Problem Solving (Baekjoon Online Judge)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixed0301)](https://solved.ac/fixed0301/)
 
