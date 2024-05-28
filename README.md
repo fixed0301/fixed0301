@@ -6,6 +6,7 @@
   
 ### 💬 Favorite Language
 <a href="https://python.org"><img src="https://img.shields.io/badge/-Python-4dabf7?style=for-the-badge&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
  
 ### ⌨️ Favorite Tools
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
@@ -17,7 +18,7 @@
 ### 📫 How to reach me:
 - insta: @fixeddoor0301
 - e-mail: fixeddoor0301@gmail.com
-- 
+  
 ### Problem Solving (Baekjoon Online Judge)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fixed0301)](https://solved.ac/fixed0301/)
 
