@@ -1,6 +1,6 @@
 ## Fixed Door
 
-- 🏫 Student of the **[POSTECH]([https://gbs.hs.kr/](https://gbs-h.goeujb.kr/gbs-h/main.)) 25th**
+- 🏫 Student of **[POSTECH]([https://gbs.hs.kr/](https://gbs-h.goeujb.kr/gbs-h/main.)) 25th**
 
 ### ⌨️ Favorite Tools
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/-pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
